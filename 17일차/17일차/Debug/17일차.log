@@ -1,0 +1,2 @@
+﻿  17일차.c
+c:\users\aomori kaitou\desktop\kaitou\17일차\17일차\17일차.c(25): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'coordinate'
